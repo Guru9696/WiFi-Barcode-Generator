@@ -1,4 +1,3 @@
-const readmeContent = `
 # WiFi Barcode Generator
 
 This is a simple web application that generates a barcode for WiFi credentials, allowing users to easily share WiFi information by scanning the barcode. The app takes the WiFi network name (SSID) and password as input, and generates a barcode that can be scanned by a mobile device or a barcode reader.
